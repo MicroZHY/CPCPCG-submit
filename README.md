@@ -1,4 +1,4 @@
-# CPC 7th China Parallel Application Challenge on Domestic CPU (CPC) Preliminary Optimization Report
+# CPC 7th China Parallel Application Challenge on Domestic CPU (2023) Preliminary Optimization Report
 
 ## Project Overview
 This technical report is completed by a team from the University of Chinese Academy of Sciences. For the preliminary round of the 7th China Parallel Application Challenge on Domestic CPU (CPC), we have conducted in-depth optimization on the Preconditioned Conjugate Gradient (PCG) algorithm to enhance its performance in solving sparse linear equation systems.
