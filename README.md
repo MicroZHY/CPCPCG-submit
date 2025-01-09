@@ -1,6 +1,3 @@
-好的，我明白了。以下是完整的 Markdown 文本：
-
-```markdown
 # CPC 7th China Parallel Application Challenge on Domestic CPU (CPC) Preliminary Optimization Report
 
 ## Project Overview
